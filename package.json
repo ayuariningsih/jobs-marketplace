@@ -21,6 +21,7 @@
     "@types/connect": "^3.4.36",
     "lodash-es": "^4.17.21",
     "moment": "^2.29.4",
+    "netlify-cli": "^16.9.0",
     "nuxt": "^3.7.3",
     "sass": "^1.67.0",
     "vuetify": "^3.3.16"
